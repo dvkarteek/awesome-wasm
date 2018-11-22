@@ -34,6 +34,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Gists](#gists)
 - [Examples](#examples)
 - [Benchmarks](#benchmarks)
+- [Job Boards](#job-boards)
 - [Articles](#articles)
 - [Video](#video)
 - [Slides](#slides)
@@ -84,9 +85,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Rust - A safe, concurrent, practical language](https://blog.rust-lang.org/2016/12/22/Rust-1.14.html)
 - [ilwasm - CIL to WebAssembly compiler](https://github.com/kg/ilwasm)
 - [WebAssembly for the GNU Toolchain](https://sourceware.org/ml/binutils/2017-03/msg00044.html)
-- [faust2 - Functional programming language for signal processing and sound synthesis](http://faust.grame.fr/news/2017/01/13/faust-webassembly.html)
+- [faust2 - Functional programming language for signal processing and sound synthesis](https://faust.grame.fr/community/news/index.html#faust-webassembly-backend)
 - [Asterius - A Haskell to WebAssembly compiler](https://github.com/tweag/asterius)
 - [PPCI.wasm - PPCI Can compile wasm to machine code and run it in the Python process](http://ppci.readthedocs.io/en/latest/reference/wasm.html)
+- [TinyGo - Go for embedded devices and WebAssembly.  Creates very small .wasm files.](https://github.com/aykevl/tinygo)
 
 ### Non-Web Embeddings
 - [wac - WebAssembly in C (x86)](https://github.com/kanaka/wac)
@@ -102,6 +104,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Blazor - Microsoft's experimental web UI framework using C#/Razor and HTML, running client-side via WebAssembly](https://github.com/aspnet/blazor)
 - [Yew - Rust framework for making client web apps](https://github.com/DenisKolodin/yew)
 - [Perspective - Streaming pivot visualization via WebAssembly](https://github.com/jpmorganchase/perspective)
+- [go-vdom-wasm - Webassembly VDOM to create web application using Golang(experimental)](https://github.com/mfrachet/go-vdom-wasm)
 
 #### Data processing
 - [jq-web - the JSON processing tool jq ported to the web with Emscripten](https://github.com/fiatjaf/jq-web)
@@ -113,7 +116,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 #### webpack
 - [wasm-loader - WASM webpack loader](https://github.com/ballercat/wasm-loader)
-- [cpp-wasm-lader - C/C++ to WASM Webpack loader optimized for small bundle sizes](https://github.com/ClickSimply/cpp-wasm-loader)
+- [cpp-wasm-loader - C/C++ to WASM Webpack loader optimized for small bundle sizes](https://github.com/ClickSimply/cpp-wasm-loader)
 
 #### Browserify
 - [rustify - Rust WebAssembly transform for Browserify](https://github.com/browserify/rustify)
@@ -121,6 +124,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 #### node.js
 - [webassembly - A minimal toolkit and runtime to produce and run WebAssembly modules.](https://github.com/dcodeIO/webassembly)
 - [wasm-pack - pack up the wasm and publish it to npm!](https://github.com/ashleygwilliams/wasm-pack)
+- [go-wasm-cli - Minimalistic cli to create and run (with hot reload) Go application targeting WASM](https://github.com/mfrachet/go-wasm-cli)
 
 ### .NET
 - [Uno Platform - An implementation of Microsoft's UWP APIs for iOS/Android/WebAssembly, using C#/XAML on top of mono-wasm](https://github.com/nventive/Uno)
@@ -136,6 +140,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [cld3-asm - Wasm based JS binding for Google compact language detector 3](https://github.com/kwonoj/cld3-asm)
 - [hunspell-asm - Wasm based JS binding for Hunspell spellchecker](https://github.com/kwonoj/hunspell-asm)
 - [wasm-bindgen - Interoperating JS and Rust code](https://github.com/alexcrichton/wasm-bindgen)
+- [ewasm - Ethereum flavored WebAssembly](https://github.com/ewasm)
 
 ### Languages
 
@@ -206,6 +211,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Performance Testing Web Assembly vs JavaScript](https://medium.com/samsung-internet-dev/performance-testing-web-assembly-vs-javascript-e07506fd5875)
 - [A Real-World WebAssembly Benchmark by PSPDFKit](https://pspdfkit.com/blog/2018/a-real-world-webassembly-benchmark/)
 
+### Job Boards
+- [WebAssembly Jobs](https://webassemblyjobs.com)
+
 ### Articles
 - [Writing WebAssembly By Hand (2018)](http://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html)
 - [Ruby on WebAssembly (2018)](http://www.blacktm.com/blog/ruby-on-webassembly)
@@ -271,6 +279,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Books
 - [WebAssembly Reference Manual](https://github.com/sunfishcode/wasm-reference-manual)
+- [Learn WebAssembly - Build web applications with native performance using Wasm and C/C++](https://www.packtpub.com/web-development/learn-webassembly)
 
 ### Demos
 - [Tanks - a Unity game which has been exported to WebAssembly ](http://webassembly.org/demo/Tanks/)
@@ -294,6 +303,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WebAssembly资料精选 - 中文版](https://github.com/chai2010/awesome-wasm-zh)
 - [WebAssembly标准入门 - 第一本中文图书](https://github.com/chai2010/awesome-wasm-zh/blob/master/webassembly-primer.md)
 - [C/C++面向wasm编程 - 第一本中文开源图书](https://github.com/3dgen/cppwasm-book)
+- [《深入浅出 WebAssembly》](https://zhuanlan.zhihu.com/p/47577104)
 
 #### Russian
 - [KharkivJS #5: Serious JS (Kharkiv, Ukraine, November 7, 2015) - WebAssembly: new era of Web (video)](https://www.youtube.com/watch?v=eWF_1nMM5Yo)
